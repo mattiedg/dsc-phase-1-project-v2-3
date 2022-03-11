@@ -17,3 +17,5 @@ There is a positive correlation between Gross and Budget, as the budget increase
 ![Unknown-3](https://user-images.githubusercontent.com/100098968/157973857-d6b39473-7253-452d-82db-c4eaa5f302a6.png)
 
 # Conclusion
+
+Microsoft will need to make sure that they pay attention to the consumer information. The data is telling us that movie goers like to watch "Adventure,Fantasy", "Adventure, Drama, Sci-Fi", and "Action, Adventure, Sci-Fi" films. As well it is saying that the majority of revenue for the movies comes from international markets. This tells us that Microsoft should consider making an Adventure Genre movie for their first film as well as targeting potention viewers outside of the United States. Further Microsoft will need to be prepared to commit money to this project. As we have seen in order to have a higher change of securing a healthy ROI a larger budget will be required. Finally, Microsoft should focus on a movie that appeals to a broad audience. As we can see from the IMdB Data, 
